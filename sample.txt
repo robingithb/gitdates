@@ -2,4 +2,8 @@ its will be test
 
 sample another change
 
+
 master commit
+
+yes we can conflict
+
