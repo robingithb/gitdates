@@ -9,3 +9,5 @@ yes we can conflict
 
 
 git push
+
+git push checkup
